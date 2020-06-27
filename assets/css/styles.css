@@ -1,0 +1,86 @@
+.center_button{
+    margin: 90px 0 90px 0;
+}
+.select_course{
+    margin: 20% 0;
+}
+.list_item{
+    background-color: #f8f9fa;
+    color: #212529;
+    display: block;
+    text-decoration: none;
+    margin-top: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+    width: 100%;
+}
+.list_item:hover{
+    color: #212529;
+    background-color: #e2e6ea;
+    text-decoration: none;
+}
+.footer{
+    padding: 70px;
+    background-color: #e9e9e9;
+    text-align: center;
+    margin-top: 20px
+}
+.page_body{
+    margin-top: 50px;
+    min-height: 450px
+}
+#registerTopic{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000000a6;
+    
+}
+.register_form{
+    display: block;
+    margin: 100px auto;
+    width: 30%;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: white;
+}
+.close_button{
+    background: none;
+    border: none;
+    font-size: 170%;
+    color: red;
+}
+.nav_button{
+    background: none;
+    border: none
+}
+.add_student_form{
+    display: block;
+    margin: 0 auto;
+}
+.add_student_form_label{
+    display: inline;
+    /* font-weight: 500 */
+}
+.side_image{
+    height: 200px;
+    /* width: 200px; */
+    /* display: block; */
+    /* margin-left: -60%; */
+    border-radius: 7px;
+}
+.attendance_body{
+    margin: 0 auto;
+    width: 500px;
+    border: 1px solid #ddd;
+    border-radius: 10px
+}
+.attendance_body div{
+    width: 100%;
+    margin: 0 auto;
+}
